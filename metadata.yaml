@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37843'
     url: http://www.gutenberg.org/2009/agents/37843
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35700#My-Cave-Life-in-VicksburgWith-Letters-of-Trial-and-Travel
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2011-03-28'
 gutenberg_type: Text
