@@ -1,0 +1,32 @@
+_repo: My-Cave-Life-in-VicksburgWith-Letters-of-Trial-and-Travel_35700
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Loughborough, Mary Ann Webster
+    alias: Loughborough, Mary Ann
+    birthdate: 1836
+    deathdate: 1887
+    gutenberg_agent_id: '37843'
+    url: http://www.gutenberg.org/2009/agents/37843
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2011-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35700'
+  lccn: 02017882
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Loughborough, Mary Ann Webster, 1836-1887'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcsh 'Vicksburg (Miss.) -- History -- Siege, 1863 -- Personal narratives'
+title: My Cave Life in Vicksburg, with Letters of Trial and Travel
+url: http://www.gutenberg.org/ebooks/35700
